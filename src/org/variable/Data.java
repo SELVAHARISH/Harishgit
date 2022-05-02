@@ -12,7 +12,7 @@ public class Data {
 		System.out.println("before method calling"+name);
 		d.Source();
 		System.out.println("after method calling="+name);
-		Data d2=new Data();
+		Data d5=new Data();
 		System.out.println(name);
 	}
 	
